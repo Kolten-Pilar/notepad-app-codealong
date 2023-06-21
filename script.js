@@ -68,3 +68,5 @@ function updateLS() {
 
   localStorage.setItem('notes', JSON.stringify(notes));
 }
+
+alert('Followed along in class 6/21/23. Thank you for viewing')
