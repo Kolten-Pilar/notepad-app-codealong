@@ -16,11 +16,13 @@ body {
 .add {
   position: fixed;
   top: 1rem;
+  right: 1rem;
   background-color: yellowgreen;
   color: white;
   border: none;
   border-radius: 3px;
   padding: 0.5rem 1rem;
+
 }
 
 .note {
@@ -52,4 +54,6 @@ body {
   font-family: inherit;
   font-size: 1.2rem;
   height: 400px;
+  width: 100%;
+  padding: 20px;
 }
